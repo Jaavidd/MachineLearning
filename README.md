@@ -1,3 +1,5 @@
-# MachineLearning
+# MachineLearning Project
 
-Algorithms(K-means,DecisionTree,Neural network) from scratch for iris and heart_disease datasets.
+Predicting existence of heart diseas using (DecisionTree,Neural network) algorithms from scratch.
+
+In addition, k-means clustering is used for iris data set.
